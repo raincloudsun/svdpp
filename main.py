@@ -69,7 +69,3 @@ if __name__ == "__main__":
     print 'Top item for user[{0}] => {0} with predicted rating {1}'.format(ruid, result[0], result[1])
 
 # End of File
-
-
-
-
